@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/flag"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black">
+
+    <View android:id="@+id/first"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:background="@color/white"/>
+
+    <View android:id="@+id/second"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:background="@color/green"/>
+
+    <View android:id="@+id/third"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:background="@color/red"/>
+
+    <TextView android:id="@+id/country_name"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Bulgaria"
+        android:textSize="80px"
+        android:textColor="@color/white"/>
+
+</LinearLayout>
