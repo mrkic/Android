@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nickname_text">Nickname: </string>
+    <string name="login_text">Login</string>
+    <string name="music_text">Music</string>
+    <string name="On_radio_button">On</string>
+    <string name="Off_radio_button">Off</string>
+    <string name="Start_menu_button">Start</string>
+    <string name="Settings_menu_button">Sound Settings</string>
+    <string name="Exit_menu_button">Exit</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <string name="back_text">Back</string>
+    <string name="save_text">Save</string>
+    <string name="title_activity_puzzle">Puzzle</string>
+    <string name="title_activity_ranking_list">RankingList</string>
+    <string name="ranking_list">Ranking List:</string>
+    <string name="return_button_text">Return</string>
+    <string name="rank_list_text">Rank List</string>
+</resources>
